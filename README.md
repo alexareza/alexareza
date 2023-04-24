@@ -13,7 +13,7 @@ Talk to me about:
 - Creating scalable cloud architecture using **AWS Cloud**.
 - Solving Data structure and algorithm questions in **Java and Python**.
 
-🌱 I’m currently learning:
+## 🌱 I’m currently learning:
 - Web Programming
 - Swift soon!
 
