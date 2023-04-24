@@ -1,16 +1,25 @@
-### Hi there 👋
 
-<!--
-**alexareza/alexareza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-Here are some ideas to get you started:
+My name is Alexa Reza. I am currently pursuing a humanities degree from The University of Texas at Austin. Who said a humanities major couldn't learn computer science?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Technologies
+Talk to me about:
+- Front-end development using **HTML, Javascript, CSS**.
+- Backend development using **PHP, Python**.
+- Robust full-stack system design implementation.
+- Desktop application development using **Flutter** (Still learning).
+- Mobile application development using **Flutter and Kotlin**.
+- Creating scalable cloud architecture using **AWS Cloud**.
+- Solving Data structure and algorithm questions in **Java and Python**.
+
+- 🌱 I’m currently learning:
+- Web Programming
+- Swift soon!
+
+- 💬 Ask me about anything and everything!
+- 📫 How to reach me: alexa.rezav@utexas.edu
+- 😄 Pronouns: she/her/hers
+- ⚡ Fun fact: I do not have an internal monologue!
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=alexareza.alexareza)
