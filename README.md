@@ -17,9 +17,9 @@ Talk to me about:
 - Web Programming
 - Swift soon!
 
-💬 Ask me about anything and everything!
-📫 How to reach me: alexa.rezav@utexas.edu
-😄 Pronouns: she/her/hers
-⚡ Fun fact: I do not have an internal monologue!
+- 💬 Ask me about anything and everything!
+- 📫 How to reach me: alexa.rezav@utexas.edu
+- 😄 Pronouns: she/her/hers
+- ⚡ Fun fact: I do not have an internal monologue!
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=alexareza.alexareza)
