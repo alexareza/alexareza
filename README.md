@@ -7,11 +7,6 @@ My name is Alexa Reza. I am currently pursuing a humanities degree from The Univ
 Talk to me about:
 - Front-end development using **HTML, Javascript, CSS**.
 - Backend development using **PHP, Python**.
-- Robust full-stack system design implementation.
-- Desktop application development using **Flutter** (Still learning).
-- Mobile application development using **Flutter and Kotlin**.
-- Creating scalable cloud architecture using **AWS Cloud**.
-- Solving Data structure and algorithm questions in **Java and Python**.
 
 ## 🌱 I’m currently learning:
 - Web Programming
