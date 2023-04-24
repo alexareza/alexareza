@@ -16,5 +16,3 @@ Talk to me about:
 - 📫 How to reach me: alexa.rezav@utexas.edu
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I do not have an internal monologue!
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=alexareza.alexareza)
