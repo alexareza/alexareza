@@ -15,4 +15,3 @@ Talk to me about:
 - 💬 Ask me about anything and everything!
 - 📫 How to reach me: alexa.rezav@utexas.edu
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I do not have an internal monologue!
