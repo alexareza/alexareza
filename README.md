@@ -7,9 +7,9 @@ My name is Alexa Reza. I am currently pursuing a humanities degree from The Univ
 Talk to me about:
 - Front-end development using **HTML, Javascript, CSS**.
 - Backend development using **PHP, Python**.
+- Web Programming
 
 ## 🌱 I’m currently learning:
-- Web Programming
 - Swift soon!
 
 - 💬 Ask me about anything and everything!
