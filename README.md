@@ -6,11 +6,12 @@ My name is Alexa Reza. I am currently pursuing a humanities degree from The Univ
 ## ⚡ Technologies
 Talk to me about:
 - Front-end development using **HTML, Javascript, CSS**.
-- Backend development using **PHP, Python**.
+- Backend development using **PHP, Python, Java**.
 - Web Programming
+- Mobile/iOS Development
 
 ## 🌱 I’m currently learning:
-- Swift soon!
+- Graphics & Visualization
 
 - 💬 Ask me about anything and everything!
 - 📫 How to reach me: alexa.rezav@utexas.edu
